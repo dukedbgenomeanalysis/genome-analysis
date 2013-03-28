@@ -10,5 +10,9 @@ class Test {
   public Test() {
 	  // do nothing
   }
+  
+  public Test(int num) {
+	  this.test_number = num;
+  }
 }
 
