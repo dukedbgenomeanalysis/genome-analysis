@@ -22,8 +22,11 @@ class Test {
   public static void main(String[] args) {
     int a =1;
     int b =0;
-    a++;
-    b++
+    int c = 0;
+    a++;;
+    c++;
+    b++;
+    d++;
   }
 }
 
