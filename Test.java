@@ -14,5 +14,9 @@ class Test {
   public Test(int num) {
 	  this.test_number = num;
   }
+  
+  public Test(int num, boolean b) {
+	  // do nothing
+  }
 }
 
