@@ -6,5 +6,9 @@ package duke.db.genome-analysis
 
 class Test {
   int test_number = 0;
+  
+  public Test() {
+	  // do nothing
+  }
 }
 
