@@ -18,5 +18,9 @@ class Test {
   public Test(int num, boolean b) {
 	  // do nothing
   }
+  
+  public static void main(String[] args) {
+	  int a =1;
+  }
 }
 
